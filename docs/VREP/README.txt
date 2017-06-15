@@ -1,0 +1,1 @@
+Pour télécharger VREP, il suffit de télécharger le fichier sur le site officiel, modifier le chemin du fichier dans le programme lauchVREP.sh et pour faire apparaitre un poppy lancer le programme main.py dans un autre terminal.
